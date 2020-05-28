@@ -1,0 +1,331 @@
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2019.11.3)  7 NOV 2019 12:58
+entering extended mode
+**lab2.tex
+(F:\机器学习\lab2\report\lab2.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(F:\机器学习\lab2\report\IEEEtran.cls
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count80
+\@IEEEtrantmpcountB=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 366.
+
+(D:\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+Requested font "ptmr7t" at 10.0pt
+ -> ptmr7t
+
+-- Using 210mm x 297mm (a4) paper.
+-- Using DVI output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+Requested font "ptmr7t" at 5.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+Requested font "ptmb7t" at 5.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 5.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+Requested font "ptmbi7t" at 5.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 7.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+Requested font "ptmb7t" at 7.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 7.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+Requested font "ptmbi7t" at 7.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 8.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+Requested font "ptmb7t" at 8.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 8.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+Requested font "ptmbi7t" at 8.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 9.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+Requested font "ptmb7t" at 9.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 9.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+Requested font "ptmbi7t" at 9.0pt
+ -> ptmbi7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+Requested font "ptmb7t" at 10.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 10.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+Requested font "ptmbi7t" at 10.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 11.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+Requested font "ptmb7t" at 11.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 11.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+Requested font "ptmbi7t" at 11.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 12.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+Requested font "ptmb7t" at 12.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 12.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+Requested font "ptmbi7t" at 12.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 17.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+Requested font "ptmb7t" at 17.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 17.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+Requested font "ptmbi7t" at 17.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 20.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+Requested font "ptmb7t" at 20.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 20.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+Requested font "ptmbi7t" at 20.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 24.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+Requested font "ptmb7t" at 24.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 24.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+Requested font "ptmbi7t" at 24.0pt
+ -> ptmbi7t
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count91
+\@IEEEtranrubishbin=\box26
+) (D:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(D:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(D:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(D:\CTEX\MiKTeX\tex\xelatex\xetex-def\xetex.def
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+(D:\CTEX\MiKTeX\tex\xelatex\xetexurl\url.sty
+\Urlmuskip=\muskip10
+Package: url 2004/03/15  ver 3.1  Verb mode for urls, etc.
+)
+(D:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(D:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(D:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen119
+))
+(D:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen120
+)
+(D:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen121
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip11
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks17
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks18
+\eqnshift@=\dimen122
+\alignsep@=\dimen123
+\tagshift@=\dimen124
+\tagwidth@=\dimen125
+\totwidth@=\dimen126
+\lineht@=\dimen127
+\@envbody=\toks19
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+) (F:\机器学习\lab2\report\lab2.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+File: SCUT.png Graphic file (type QTm)
+ <use  "SCUT.png" >
+Requested font "ptmrc7t" at 10.0pt
+ -> ptmrc7t
+Requested font "ptmrc7t" at 17.0pt
+ -> ptmrc7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 156.
+Requested font "ptmbc7t" at 17.0pt
+ -> ptmbc7t
+Requested font "cmex7" at 7.0pt
+ -> cmex7
+Requested font "cmex7" at 5.0pt
+ -> cmex7
+ [0
+
+
+]
+
+LaTeX Warning: No \author given.
+
+
+LaTeX Warning: No \author given.
+
+** ATTENTION: \PARstart is deprecated (line 221). Use \IEEEPARstart instead.
+Requested font "ptmb7t" at 19.88007pt
+ -> ptmb7t
+Requested font "ptmb7t" at 29.54773pt
+ -> ptmb7t
+
+Overfull \hbox (3.81236pt too wide) detected at line 229
+\OML/cmm/m/it/10 h[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) = \OML
+/cmm/m/it/10 g\OT1/cmr/m/n/10 ([] \OML/cmm/m/it/10 w[]x[]\OT1/cmr/m/n/10 ) = \O
+ML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 w[]x\OT1/cmr/m/n/10 ) \OML/cm
+m/m/it/10 where g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 z\OT1/cmr/m/n/10 ) = []
+ []
+
+File: SVMcase.png Graphic file (type QTm)
+<use  "SVMcase.png" > [1
+
+
+]
+File: logistic.png Graphic file (type QTm)
+ <use  "logistic.png" >
+File: SVM.png Graphic file (type QTm)
+ <use  "SVM.png" > [2]
+(F:\机器学习\lab2\report\lab2.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1902 strings out of 430478
+ 26524 string characters out of 3191502
+ 83038 words of memory out of 3000000
+ 5071 multiletter control sequences out of 15000+200000
+ 28153 words of font info for 61 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 27i,8n,20p,911b,236s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on lab2.pdf (3 pages).

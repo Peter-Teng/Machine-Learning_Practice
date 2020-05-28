@@ -1,0 +1,9 @@
+n_weakers_limit = 4 & max_depth of weakers = 10              
+        precision    recall  f1-score   support
+
+        -1.0       0.62      0.96      0.75        24
+         1.0       0.92      0.46      0.62        26
+
+    accuracy                           0.70        50
+   macro avg       0.77      0.71      0.68        50
+weighted avg       0.78      0.70      0.68        50
